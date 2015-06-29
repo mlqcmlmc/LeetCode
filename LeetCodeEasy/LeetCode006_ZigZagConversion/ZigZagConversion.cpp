@@ -45,7 +45,6 @@ public:
 
 };
 
-
 int main()
 {
     string strRows = "A";
