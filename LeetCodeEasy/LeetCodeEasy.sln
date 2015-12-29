@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode006_ZigZagConversio
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode0007_ReverseInteger", "Leetcode0007_ReverseInteger\Leetcode0007_ReverseInteger.vcxproj", "{CE35366F-F2DA-40A0-9120-46372C63F078}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode009_PalindromeNumber", "LeetCode009_PalindromeNumber\LeetCode009_PalindromeNumber.vcxproj", "{2060911C-9E13-4285-B8CC-E25C81AD5047}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +29,10 @@ Global
 		{CE35366F-F2DA-40A0-9120-46372C63F078}.Debug|Win32.Build.0 = Debug|Win32
 		{CE35366F-F2DA-40A0-9120-46372C63F078}.Release|Win32.ActiveCfg = Release|Win32
 		{CE35366F-F2DA-40A0-9120-46372C63F078}.Release|Win32.Build.0 = Release|Win32
+		{2060911C-9E13-4285-B8CC-E25C81AD5047}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2060911C-9E13-4285-B8CC-E25C81AD5047}.Debug|Win32.Build.0 = Debug|Win32
+		{2060911C-9E13-4285-B8CC-E25C81AD5047}.Release|Win32.ActiveCfg = Release|Win32
+		{2060911C-9E13-4285-B8CC-E25C81AD5047}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
