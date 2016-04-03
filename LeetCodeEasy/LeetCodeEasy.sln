@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode228_SummaryRanges", "LeetCode228_SummaryRanges\LeetCode228_SummaryRanges.vcxproj", "{937CD2C7-407D-431B-85F8-D12F29F189D7}"
 EndProject
@@ -9,7 +9,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode006_ZigZagConversio
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode0007_ReverseInteger", "Leetcode0007_ReverseInteger\Leetcode0007_ReverseInteger.vcxproj", "{CE35366F-F2DA-40A0-9120-46372C63F078}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode009_PalindromeNumber", "LeetCode009_PalindromeNumber\LeetCode009_PalindromeNumber.vcxproj", "{2060911C-9E13-4285-B8CC-E25C81AD5047}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode013_RomantoInteger", "LeetCode013_RomantoInteger\LeetCode013_RomantoInteger.vcxproj", "{1887E8F6-8951-4FE0-BDAA-367C11E72D51}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode206_ReverseLinkedList", "LeetCode206_ReverseLinkedList\LeetCode206_ReverseLinkedList.vcxproj", "{8D06F547-E8B1-4D55-92C0-189AFD732792}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode189_RotateArray", "LeetCode189_RotateArray\LeetCode189_RotateArray.vcxproj", "{517343D1-3250-4297-8684-792F23B12438}"
 EndProject
@@ -31,6 +33,7 @@ Global
 		{CE35366F-F2DA-40A0-9120-46372C63F078}.Debug|Win32.Build.0 = Debug|Win32
 		{CE35366F-F2DA-40A0-9120-46372C63F078}.Release|Win32.ActiveCfg = Release|Win32
 		{CE35366F-F2DA-40A0-9120-46372C63F078}.Release|Win32.Build.0 = Release|Win32
+<<<<<<< HEAD
 		{2060911C-9E13-4285-B8CC-E25C81AD5047}.Debug|Win32.ActiveCfg = Debug|Win32
 		{2060911C-9E13-4285-B8CC-E25C81AD5047}.Debug|Win32.Build.0 = Debug|Win32
 		{2060911C-9E13-4285-B8CC-E25C81AD5047}.Release|Win32.ActiveCfg = Release|Win32
@@ -39,6 +42,16 @@ Global
 		{517343D1-3250-4297-8684-792F23B12438}.Debug|Win32.Build.0 = Debug|Win32
 		{517343D1-3250-4297-8684-792F23B12438}.Release|Win32.ActiveCfg = Release|Win32
 		{517343D1-3250-4297-8684-792F23B12438}.Release|Win32.Build.0 = Release|Win32
+=======
+		{1887E8F6-8951-4FE0-BDAA-367C11E72D51}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1887E8F6-8951-4FE0-BDAA-367C11E72D51}.Debug|Win32.Build.0 = Debug|Win32
+		{1887E8F6-8951-4FE0-BDAA-367C11E72D51}.Release|Win32.ActiveCfg = Release|Win32
+		{1887E8F6-8951-4FE0-BDAA-367C11E72D51}.Release|Win32.Build.0 = Release|Win32
+		{8D06F547-E8B1-4D55-92C0-189AFD732792}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8D06F547-E8B1-4D55-92C0-189AFD732792}.Debug|Win32.Build.0 = Debug|Win32
+		{8D06F547-E8B1-4D55-92C0-189AFD732792}.Release|Win32.ActiveCfg = Release|Win32
+		{8D06F547-E8B1-4D55-92C0-189AFD732792}.Release|Win32.Build.0 = Release|Win32
+>>>>>>> f673bd0c74870cd3fd94e81e84c95c89c5ac14e2
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
