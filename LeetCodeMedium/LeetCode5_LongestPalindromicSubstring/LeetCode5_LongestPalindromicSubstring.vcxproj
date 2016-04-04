@@ -11,10 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{CE35366F-F2DA-40A0-9120-46372C63F078}</ProjectGuid>
+    <ProjectGuid>{EC33957D-15E7-4DF3-85FD-9258962300E4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Leetcode0007_ReverseInteger</RootNamespace>
-    <ProjectName>Leetcode007_ReverseInteger</ProjectName>
+    <RootNamespace>LeetCode5_LongestPalindromicSubstring</RootNamespace>
+    <ProjectName>LeetCode005_LongestPalindromicSubstring</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -79,7 +79,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ReverseInteger.cpp" />
+    <ClCompile Include="LongestPalindromicSubstring.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

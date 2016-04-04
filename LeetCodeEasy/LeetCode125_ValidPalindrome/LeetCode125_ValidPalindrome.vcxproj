@@ -11,10 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{CE35366F-F2DA-40A0-9120-46372C63F078}</ProjectGuid>
+    <ProjectGuid>{B2F904E9-CDA6-4C4E-810F-76DF1D772A7A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Leetcode0007_ReverseInteger</RootNamespace>
-    <ProjectName>Leetcode007_ReverseInteger</ProjectName>
+    <RootNamespace>LeetCode125_ValidPalindrome</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -79,7 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ReverseInteger.cpp" />
+    <ClCompile Include="ValidPalindrome.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

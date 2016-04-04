@@ -14,6 +14,7 @@
     <ProjectGuid>{B696BD2C-6A5C-479D-8813-9266F85FF383}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>LeetCode81_SearchinRotatedSortedArray2</RootNamespace>
+    <ProjectName>LeetCode081_SearchinRotatedSortedArray2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
