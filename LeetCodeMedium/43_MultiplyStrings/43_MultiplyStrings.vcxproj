@@ -14,7 +14,7 @@
     <ProjectGuid>{540DFDE3-1687-4486-AF58-93F68F9DB759}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My43_MultiplyStrings</RootNamespace>
-    <ProjectName>043_MultiplyStrings</ProjectName>
+    <ProjectName>LeetCode043_MultiplyStrings</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -77,6 +77,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MultiplyStrings.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
